@@ -13,4 +13,8 @@ Easy Editor - это простая программа для редактиро
 >>
 >>Контур
 >>
->>![Фото один](C:\Users\Adik\Pictures\Screenshots\Снимок экрана (466).jpg)
+>>![Фото два](C:\Users\Adik\Pictures\Screenshots\Снимок экрана (466).jpg)
+>>
+>>Зеркало
+>>
+>>![Фото nhb](C:\Users\Adik\Pictures\Screenshots\Снимок экрана (467).jpg)
