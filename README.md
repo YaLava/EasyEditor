@@ -4,8 +4,10 @@ Easy Editor - это простая программа для редактиро
 ***
 >Функции
 >>ЧБ
->>![Фото](C:\Users\Adik\Pictures\Screenshots\Снимок экрана (463).jpg)
+![Фото](C:\Users\Adik\Pictures\Screenshots\Снимок экрана (463).jpg)
+>>
 >>Лево-Право
->>![Фото один](C:\Users\Adik\Pictures\Screenshots\Снимок экрана (464).jpg)
+![Фото один](C:\Users\Adik\Pictures\Screenshots\Снимок экрана (464).jpg)
+>>
 >>Контур
->>![Фото один](C:\Users\Adik\Pictures\Screenshots\Снимок экрана (466).jpg)
+![Фото один](C:\Users\Adik\Pictures\Screenshots\Снимок экрана (466).jpg)
