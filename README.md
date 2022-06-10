@@ -18,3 +18,7 @@ Easy Editor - это простая программа для редактиро
 >>Зеркало
 >>
 >>![Фото nhb](C:\Users\Adik\Pictures\Screenshots\Снимок экрана (467).jpg)
+***
+>Интерфейс
+>
+>![Фото nhk](C:\Users\Adik\Pictures\Screenshots\Снимок экрана (468).jpg)
